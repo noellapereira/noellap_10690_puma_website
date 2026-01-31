@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Puma</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <h1 class="changing-text">
+  <span>Extra 5% and free shipping on all online payments*</span>
+  <span>Free returns and exchanges.</span>
+  <span>Solve your queries faster than ever! Send us a 'HI' on whatsapp!</span>
+ </h1>
+
+
+<!-- HEADER / NAVBAR -->
+<header class="navbar">
+ <div><img src="img1.png" height="95" width="120" alt="puma_logo"></div>
+ <nav class="menu">
+  <div class="dropdown">
+   <button class="dropbtn">New</button>
+   <div class="dropdown-content">
+    <a href="#">Fast-R3</a>
+    <a href="#">Deviate Nitro 4</a>
+    <a href="#">Velocity Nitro 4</a>
+    <a href="#">PUMA x McLAREN</a>
+    <a href="#">PUMA x RCB</a>
+    <a href="#">Ballet Flats</a>
+    <a href="#">Speedcat</a>
+    <a href="#">Scuderia Ferrari</a>
+    <a href="#">Winter wear</a>
+    <a href="#">Steppin</a>
+    <a href="#">Launch Calendar</a>
+   </div>
+  </div>
+
+  <div class="dropdown">
+   <button class="dropbtn">Men</button>
+   <div class="dropdown-content">
+    <a href="#">Sneakers</a>
+    <a href="#">Running</a>
+    <a href="#">Motorsports</a>
+    <a href="#">Walking</a>
+    <a href="#">Training and Gym</a>
+    <a href="#">Slip-ons</a>
+    <a href="#">Sandals</a>
+    <a href="#">Slides</a>
+    <a href="#">Flip Flops</a>
+   </div>
+  </div>
+
+  <div class="dropdown">
+   <button class="dropbtn">Women</button>
+   <div class="dropdown-content">
+    <a href="#">Sneakers</a>
+    <a href="#">Running</a>
+    <a href="#">Ballerinas</a>
+    <a href="#">Walking</a>
+    <a href="#">Training and Gym</a>
+    <a href="#">Slip-ons</a>
+    <a href="#">Sandals</a>
+    <a href="#">Slides</a>
+    <a href="#">Flip Flops</a>
+   </div>
+  </div>
+
+  <div class="dropdown">
+   <button class="dropbtn">Sports</button>
+   <div class="dropdown-content">
+    <a href="#">Running Store</a>
+    <a href="#">Nitro Collection</a>
+    <a href="#">Road Running</a>
+    <a href="#">Race Day</a>
+    <a href="#">Trail Running</a>
+    <a href="#">Track and Field</a>
+    <a href="#">Run Clubs</a>
+    <a href="#">Shoes</a>
+    <a href="#">Yoga</a>
+   </div>
+  </div>
+
+  <div class="dropdown">
+   <button class="dropbtn">Motorsport</button>
+   <div class="dropdown-content">
+    <a href="#">Formula 1</a>
+    <a href="#">Porsche Legacy</a>
+    <a href="#">BMW M Motorsport</a>
+    <a href="#">Scuderia Ferrari</a>
+   </div>
+  </div>
+
+  <div class="dropdown">
+   <button class="dropbtn">Lifestyle</button>
+   <div class="dropdown-content">
+    <a href="#">Travel Store</a>
+    <a href="#">Palermo Playbook</a>
+    <a href="#">Classics</a>
+    <a href="#">MMQ</a>
+   </div>
+  </div>
+
+  <div class="dropdown">
+   <button class="dropbtn">Kids</button>
+   <div class="dropdown-content">
+    <a href="#">School shoes</a>
+    <a href="#">Jackets</a>
+    <a href="#">Hoodies</a>
+    <a href="#">Sweatshirts</a>
+    <a href="#">PUMA x HARRY POTTER</a>
+    <a href="#">PUMA x HELLO KITTY</a>
+   </div>
+  </div>
+
+  <div class="dropdown">
+   <button class="dropbtn">Sale</button>
+   <div class="dropdown-content">
+    <a href="#">Lucky Sizes Footwear</a>
+    <a href="#">Lucky Sizes Apparel</a>
+    <a href="#">Kids Outlet</a>
+   </div>
+  </div>
+ </nav>
+</header><br><br>
+
+
+
+<h3 align="center" style="font-size:23px; font-family:Arial; font-weight:bold">MAKE THEM RIGHTFULLY YOURS</h3>
+  <br>
+  
+
+  <div class="gallery">
+   <div class="image-container1">
+    <img src="circle.jpeg">
+    <div class="center-text1">MEN</div>
+   </div>
+
+   <div class="image-container1">
+    <img src="circle.jpeg">
+    <div class="center-text1">WOMEN</div>
+   </div>
+
+   <div class="image-container1">
+    <img src="circle.jpeg">
+    <div class="center-text1">WINTER WEAR</div>
+   </div>
+
+   <div class="image-container1">
+    <img src="circle.jpeg">
+    <div class="center-text1">SNEAKERS</div>
+   </div>
+
+   <div class="image-container1">
+    <img src="circle.jpeg">
+    <div class="center-text1">SPORTS<br>SHOES</div>
+   </div>
+
+   <div class="image-container1">
+    <img src="circle.jpeg">
+    <div class="center-text1">KIDS</div>
+   </div>
+  </div><br><br><br><br>
+
+
+
+  <div class="image-container2">
+   <img src="img15.jpg">
+   <div class="center-text2">
+    <div class="line21">TIME OF YOUR LIFE</div><br>
+    <div class="line22">FAST-R NITRO ELITE 3</div><br><br>
+    <div class="button-group">
+     <button class="btn btn-primary">FOR HIM</button>
+     <button class="btn btn-secondary">FOR HER</button>
+    </div>
+   </div>
+  </div><br><br>
+
+
+
+  <div class="image-container2">
+   <img src="img17.png">
+  </div><br><br>
+
+
+
+<h1 align="center" style="font-weight: bold">UNLEASH YOUR ENERGY</h1>
+<br>
+<h4 align="center" style="font-family: Courier">EXPERIENCE THE NITRO DIFFERENCE</h5><br>
+
+
+
+<div class="image-row">
+  <img src="img5.png">
+  <img src="img6.png">
+  <img src="img7.png">
+</div><br><br>
+
+
+
+<div class="image-container2">
+  <img src="img8.png">
+  <div class="text-bottom-left">
+   <div class="line21">SPEEDCAT</div><br>
+    <div class="line22">EFFORTLESSLY LUXE</div><br><br>
+  </div>
+</div><br>
+
+
+
+<div class="image-container2">
+ <img src="img18.png">
+ <div class="center-text2">
+  <div class="line21">PUMA X HYROX</div><br>
+  <div class="line22">MADE FOR THIS</div><br><br>
+  <div class="button-group">
+    <button class="btn btn-primary"><a class="btn" href="#">Shop Now</a></button>
+  </div>
+ </div>
+</div><br><br>
+
+
+
+<h1 align="center" style="font-weight: bold">DISCOVER THE LATEST</h1>
+<br>
+<h3 align="center" style="font-family: Comic Sans MS; color:#B8B8B8">SEASON'S BEST JUST LANDED</h3><br><br>
+
+
+
+<div class="image-row">
+  <img src="img9.png">
+  <img src="img11.png">
+  <img src="img12.png">
+</div><br><br><br>
+
+
+
+<h1 align="center" style="font-weight: bold; font-family:Comic Sans MS">NEW SEASON. SAME PASSION</h1><br><br><br>
+
+
+<div class="image-row">
+  <img src="img13.png">
+  <img src="img14.png">
+</div><br><br><br>
+
+
+<h1 align="center" style="font-weight: bold; font-family:Arial">CUTTING EDGE FAVES</h1><br><br><br>
+
+
+<div class="scroll-container"> 
+ <div class="scroll-track"> 
+  <img src="img19.jpg"> 
+  <img src="img20.jpg"> 
+  <img src="img21.jpg"> 
+  <img src="img22.jpg"> 
+  <img src="img24.jpg"> 
+  <img src="img25.jpg"> 
+  <img src="img26.jpg"> 
+  <img src="img27.jpg">
+  <img src="img28.jpg"> 
+  <img src="img29.jpg"> 
+  <img src="img30.jpg"> 
+  <img src="img31.jpg">
+  <img src="img19.jpg"> 
+  <img src="img20.jpg"> 
+  <img src="img21.jpg"> 
+  <img src="img22.jpg"> 
+  <img src="img24.jpg"> 
+  <img src="img25.jpg"> 
+  <img src="img26.jpg"> 
+  <img src="img27.jpg">
+  <img src="img28.jpg"> 
+  <img src="img29.jpg"> 
+  <img src="img30.jpg"> 
+  <img src="img31.jpg">
+  <img src="img19.jpg"> 
+  <img src="img20.jpg"> 
+  <img src="img21.jpg"> 
+  <img src="img22.jpg"> 
+  <img src="img24.jpg"> 
+  <img src="img25.jpg"> 
+  <img src="img26.jpg"> 
+  <img src="img27.jpg">
+  <img src="img28.jpg"> 
+  <img src="img29.jpg"> 
+  <img src="img30.jpg"> 
+  <img src="img31.jpg">
+  <img src="img26.jpg"> 
+  <img src="img27.jpg">
+  <img src="img28.jpg"> 
+  <img src="img29.jpg"> 
+  <img src="img30.jpg"> 
+  <img src="img31.jpg">
+ </div> 
+</div><br><br><br>
+
+
+<div class="image-container2">
+<img src="img23.png"><br><br>
+</div>
+
+
+<!-- FOOTER -->
+<footer class="footer">
+  <p>© 2026 PUMA_clone_by_noella. All Rights Reserved.</p>
+</footer>
+
+
+</body>
+</html>
